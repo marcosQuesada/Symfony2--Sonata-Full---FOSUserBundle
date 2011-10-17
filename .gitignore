@@ -1,5 +1,5 @@
 config/parameters.ini
-app/cache
-app/logs
+app/cache/*
+app/logs/*
 app/*.cache
 web/bundles

@@ -27,7 +27,7 @@ $loader->registerNamespaces(array(
         __DIR__.'/../vendor/bundles',
         __DIR__.'/../vendor/sonata-doctrine-extensions/src'
     ),
-    'Imagine'           => __DIR__.'/../vendor/imagine/lib',
+    'Imagine'           => __DIR__.'/../vendor/imagine/lib/',
     'Gaufrette'         => __DIR__.'/../vendor/gaufrette/src',
     'Buzz'              => __DIR__.'/../vendor/buzz/lib',
     'Application'       => __DIR__.'/../src',

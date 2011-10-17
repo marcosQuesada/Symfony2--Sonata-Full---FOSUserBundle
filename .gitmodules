@@ -1,0 +1,135 @@
+[submodule "vendor/symfony"]
+	path = vendor/symfony
+	url = git://github.com/symfony/symfony.git
+[submodule "vendor/twig"]
+	path = vendor/twig
+	url = git://github.com/fabpot/Twig.git
+[submodule "vendor/monolog"]
+	path = vendor/monolog
+	url = git://github.com/Seldaek/monolog.git
+[submodule "vendor/doctrine-common"]
+	path = vendor/doctrine-common
+	url = git://github.com/doctrine/common.git
+[submodule "vendor/doctrine-dbal"]
+	path = vendor/doctrine-dbal
+	url = git://github.com/doctrine/dbal.git
+[submodule "vendor/doctrine"]
+	path = vendor/doctrine
+	url = git://github.com/doctrine/doctrine2.git
+[submodule "vendor/swiftmailer"]
+	path = vendor/swiftmailer
+	url = git://github.com/swiftmailer/swiftmailer.git
+[submodule "vendor/assetic"]
+	path = vendor/assetic
+	url = git://github.com/kriswallsmith/assetic.git
+[submodule "vendor/twig-extensions"]
+	path = vendor/twig-extensions
+	url = git://github.com/fabpot/Twig-extensions.git
+[submodule "vendor/metadata"]
+	path = vendor/metadata
+	url = git://github.com/schmittjoh/metadata.git
+[submodule "vendor/bundles/Sensio/Bundle/FrameworkExtraBundle"]
+	path = vendor/bundles/Sensio/Bundle/FrameworkExtraBundle
+	url = git://github.com/sensio/SensioFrameworkExtraBundle.git
+[submodule "vendor/bundles/JMS/SecurityExtraBundle"]
+	path = vendor/bundles/JMS/SecurityExtraBundle
+	url = git://github.com/schmittjoh/JMSSecurityExtraBundle.git
+[submodule "vendor/bundles/Sensio/Bundle/DistributionBundle"]
+	path = vendor/bundles/Sensio/Bundle/DistributionBundle
+	url = git://github.com/sensio/SensioDistributionBundle.git
+[submodule "vendor/bundles/Sensio/Bundle/GeneratorBundle"]
+	path = vendor/bundles/Sensio/Bundle/GeneratorBundle
+	url = git://github.com/sensio/SensioGeneratorBundle.git
+[submodule "vendor/bundles/Symfony/Bundle/AsseticBundle"]
+	path = vendor/bundles/Symfony/Bundle/AsseticBundle
+	url = git://github.com/symfony/AsseticBundle.git
+[submodule "vendor/doctrine-data-fixtures"]
+	path = vendor/doctrine-data-fixtures
+	url = git://github.com/doctrine/data-fixtures.git
+[submodule "vendor/bundles/Symfony/Bundle/DoctrineFixturesBundle"]
+	path = vendor/bundles/Symfony/Bundle/DoctrineFixturesBundle
+	url = git://github.com/symfony/DoctrineFixturesBundle.git
+[submodule "vendor/doctrine-migrations"]
+	path = vendor/doctrine-migrations
+	url = git://github.com/doctrine/migrations.git
+[submodule "vendor/bundles/Symfony/Bundle/DoctrineMigrationsBundle"]
+	path = vendor/bundles/Symfony/Bundle/DoctrineMigrationsBundle
+	url = git://github.com/symfony/DoctrineMigrationsBundle.git
+[submodule "vendor/imagine"]
+	path = vendor/imagine
+	url = https://github.com/avalanche123/Imagine.git
+[submodule "vendor/knp/menu"]
+	path = vendor/knp/menu
+	url = https://github.com/knplabs/KnpMenu.git
+[submodule "vendor/bundles/Knp/Bundle/MenuBundle"]
+	path = vendor/bundles/Knp/Bundle/MenuBundle
+	url = git://github.com/knplabs/KnpMenuBundle.git
+[submodule "vendor/bundles/Knp/Bundle/MarkdownBundle"]
+	path = vendor/bundles/Knp/Bundle/MarkdownBundle
+	url = git://github.com/knplabs/KnpMarkdownBundle.git
+[submodule "vendor/bundles/FOS/UserBundle"]
+	path = vendor/bundles/FOS/UserBundle
+	url = git://github.com/FriendsOfSymfony/FOSUserBundle.git
+[submodule "vendor/bundles/Sonata/jQueryBundle"]
+	path = vendor/bundles/Sonata/jQueryBundle
+	url = https://github.com/sonata-project/SonatajQueryBundle.git
+[submodule "vendor/bundles/Sonata/AdminBundle"]
+	path = vendor/bundles/Sonata/AdminBundle
+	url = https://github.com/sonata-project/SonataAdminBundle.git
+[submodule "vendor/bundles/Sonata/BluePrintBundle"]
+	path = vendor/bundles/Sonata/BluePrintBundle
+	url = https://github.com/sonata-project/SonataBluePrintBundle.git
+[submodule "vendor/bundles/Sonata/EasyExtendsBundle"]
+	path = vendor/bundles/Sonata/EasyExtendsBundle
+	url = https://github.com/sonata-project/SonataEasyExtendsBundle.git
+[submodule "vendor/bundles/Sonata/MediaBundle"]
+	path = vendor/bundles/Sonata/MediaBundle
+	url = https://github.com/sonata-project/SonataMediaBundle.git
+[submodule "vendor/bundles/Sonata/PageBundle"]
+	path = vendor/bundles/Sonata/PageBundle
+	url = https://github.com/sonata-project/SonataPageBundle.git
+[submodule "vendor/bundles/Sonata/IntlBundle"]
+	path = vendor/bundles/Sonata/IntlBundle
+	url = https://github.com/sonata-project/SonataIntlBundle.git
+[submodule "vendor/bundles/Sonata/NewsBundle"]
+	path = vendor/bundles/Sonata/NewsBundle
+	url = https://github.com/sonata-project/SonataNewsBundle.git
+[submodule "vendor/bundles/Sonata/UserBundle"]
+	path = vendor/bundles/Sonata/UserBundle
+	url = https://github.com/sonata-project/SonataUserBundle.git
+[submodule "vendor/bundles/Sonata/FormatterBundle"]
+	path = vendor/bundles/Sonata/FormatterBundle
+	url = https://github.com/sonata-project/SonataFormatterBundle.git
+[submodule "vendor/gaufrette"]
+	path = vendor/gaufrette
+	url = https://github.com/sonata-project/Gaufrette.git
+[submodule "vendor/buzz"]
+	path = vendor/buzz
+	url = https://github.com/kriswallsmith/Buzz.git
+[submodule "vendor/behat/sahi"]
+	path = vendor/behat/sahi
+	url = https://github.com/Behat/SahiClient
+[submodule "vendor/bundles/Behat/MinkBundle"]
+	path = vendor/bundles/Behat/MinkBundle
+	url = https://github.com/Behat/MinkBundle.git
+[submodule "vendor/behat/mink"]
+	path = vendor/behat/mink
+	url = https://github.com/Behat/Mink.git
+[submodule "vendor/bundles/Behat/BehatBundle"]
+	path = vendor/bundles/Behat/BehatBundle
+	url = https://github.com/Behat/BehatBundle.git
+[submodule "vendor/behat/gherkin"]
+	path = vendor/behat/gherkin
+	url = https://github.com/Behat/Gherkin.git
+[submodule "vendor/behat/behat"]
+	path = vendor/behat/behat
+	url = https://github.com/Behat/Behat.git
+[submodule "vendor/goutte"]
+	path = vendor/goutte
+	url = https://github.com/fabpot/Goutte.git
+[submodule "vendor/sonata-doctrine-extensions"]
+	path = vendor/sonata-doctrine-extensions
+	url = https://github.com/sonata-project/sonata-doctrine-extensions.git
+[submodule "vendor/sonata-capistrano"]
+	path = vendor/sonata-capistrano
+	url = https://github.com/sonata-project/sonata-capistrano.git
