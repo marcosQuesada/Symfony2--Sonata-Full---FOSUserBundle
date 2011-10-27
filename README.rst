@@ -1,3 +1,4 @@
+TEST
 Sonata Standard Edition
 =======================
 
