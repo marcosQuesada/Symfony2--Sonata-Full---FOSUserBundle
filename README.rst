@@ -1,4 +1,3 @@
-	wrwer
 Sonata Standard Edition
 =======================
 
