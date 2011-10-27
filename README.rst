@@ -1,4 +1,4 @@
-	wrwer
+TEST
 Sonata Standard Edition
 =======================
 
